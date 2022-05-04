@@ -3,7 +3,7 @@ This repository provides the code to conduct the analyses described in "Capturin
 
 The code and information are provided for the following analyses: 
 - Initial data preparation
-- Application of sentiment and subjectivity analysis to Facebook comments.
+- Application of sentiment and subjectivity analysis to Facebook comments
 - Rudimentary filtering of the text corpus to arrive at experiential knowledge
 - Pre-processing of the data and implementation of Structral Topic Modeling
 
